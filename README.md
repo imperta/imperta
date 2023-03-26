@@ -3,16 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Diego, a Front-end Freelance Developer 👨‍💻</div>  
+### <div align="center">I'm Diego, a Front-end Developer. 👨‍💻</div>  
   
 
-- 💠 I’m currently working on [Otakool](https://github.com/Otakooll)  
+- 🌱 I’m currently learning Python.
   
 
-- 🌱 I’m currently learning Javascript, Python and React  
-  
-
-- 💤 I'm probably sleeping  
+- 💤 I'm probably sleeping.  
   
 
 <br/>  
